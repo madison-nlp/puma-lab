@@ -2,7 +2,7 @@ title: "PUMA Lab"
 description: "Our research focuses on understanding behaviors of large language models (LLMs), adapting them effectively to knowledge-intensive reasoning tasks, and aligning them safely with users from diverse backgrounds."
 
 url: "https://madison-nlp.github.io"
-baseurl: "/hu-lab"
+baseurl: "/puma-lab"
 
 markdown: kramdown
 plugins:
@@ -11,7 +11,7 @@ plugins:
 
 permalink: pretty
 
-# Keep Hu Lab's local layouts/styles; al_folio_core is registered only for publication support.
+# Keep PUMA Lab's local layouts/styles; al_folio_core is registered only for publication support.
 al_folio:
   api_version: 1
   style_engine: tailwind

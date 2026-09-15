@@ -1,4 +1,4 @@
-# Hu Lab Website (GitHub Pages)
+# PUMA Lab Website (GitHub Pages)
 
 This repository contains the source code for the lab website, hosted via GitHub Pages and built using Jekyll. 
 
@@ -6,15 +6,15 @@ The site is data-driven where possible (people, carousel, research blogs) and us
 
 The website can currently be accessed at:
 ```
-https://madison-nlp.github.io/hu-lab/
+https://madison-nlp.github.io/puma-lab/
 ```
 
 ## Deployment (One-Time)
 
 The site is deployed via GitHub Pages using GitHub Actions.
-- Repository: `hu-lab`
+- Repository: `puma-lab`
 - Deployment: `Settings` -> `Pages` -> `Build and deployment` -> Source: `GitHub Actions`
-- Live URL: `https://madison-nlp.github.io/hu-lab/`
+- Live URL: `https://madison-nlp.github.io/puma-lab/`
   - Or custom domain if configured
 
 **Important:** This site depends on Jekyll. Do not add a `.nojekyll` file.
@@ -79,8 +79,8 @@ Dynamic YAML content lives in `_data/`.
   - Each entry should include:
     ```
     - image: "assets/photos/lab-2026-spring.jpg"
-      caption: "Hu Lab Outing - Summer 2026"
-      alt: "Hu Lab outing in Summer 2026"
+      caption: "PUMA Lab Outing - Summer 2026"
+      alt: "PUMA Lab outing in Summer 2026"
     ```
   - `image` should point to an existing file under `assets/photos/`.
   - `caption` is shown over the carousel on medium and larger screens.
