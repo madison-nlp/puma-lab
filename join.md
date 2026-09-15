@@ -6,8 +6,8 @@ subtitle: "Openings and how to apply"
 
 ## Prospective PhD students
  
-**(Updated on Feb 22 2026)**
-Thanks for your interest! I may not be able to reply to all inqueries due to the large amounts of emails. If you still want to bring my attention to your papers by email, please add <span class="text-highlight">“[prospective student to Hulab]”</span> in the email subject. I’ll update hiring information on my website. I am looking for 1-3 creative and curiosity-driven PhD students to join our lab in the fall of 2026. The admission decision at UW-Madison is committee-based. Please apply to the [CS](https://www.cs.wisc.edu/graduate/graduate-admissions-faq/) program, and mention my name in your application and research statement. UW-Madison is an excellent place for research, and Madison is a wonderful city to live in. Please check out these videos ([Why UW-Madison](https://www.youtube.com/watch?v=8cRE4F8GOBE), [Madison](https://www.youtube.com/watch?v=XTJA5alrisQ?)).
+**(Updated on Aug 15 2026)**
+Thanks for your interest! I may not be able to reply to all inqueries due to the large amounts of emails. For strong candidates, if you still want to bring my attention to your papers by email, please add <span class="text-highlight">“[prospective student to Hulab]”</span> in the email subject. Before contacting me, make sure you read my recent papers. I am looking for creative and curiosity-driven PhD students to join our lab in the fall of 2027. The admission decision at UW-Madison is committee-based. Please apply to the [CS](https://www.cs.wisc.edu/graduate/graduate-admissions-faq/) program, and mention my name in your application and research statement. UW-Madison is an excellent place for research, and Madison is a wonderful city to live in. Please check out these videos ([Why UW-Madison](https://www.youtube.com/watch?v=8cRE4F8GOBE), [Madison](https://www.youtube.com/watch?v=XTJA5alrisQ?)).
 
 
 ## Prospective MS/BS students and Interns
