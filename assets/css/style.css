@@ -332,19 +332,25 @@ a:hover {
 
 /* Header / navbar color band */
 .navbar {
-  background-color: #9a001b !important;
+  --navbar-logo-link-y-padding: 0;
+  background-color: #b00020 !important;
   border-bottom: none;
   box-shadow: 0 1px 0 rgba(0,0,0,0.08);
 }
 
-.navbar .navbar-brand,
+.navbar .navbar-brand {
+  color: #ffffff !important;
+  padding-top: var(--navbar-logo-link-y-padding);
+  padding-bottom: var(--navbar-logo-link-y-padding);
+}
+
 .navbar .nav-link {
   color: #ffffff !important;
 }
 
 .navbar-logo {
   display: block;
-  height: 34px;
+  height: 50px;
   width: auto;
 }
 

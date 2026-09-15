@@ -13,3 +13,9 @@ Thanks for your interest! I may not be able to reply to all inqueries due to the
 ## Prospective MS/BS students and Interns
 
 I’m also happy to work with master’s or undergraduate students at UW-Madison. If you are a currently UW student, please email me your CV. At the beginning of some semesters, I typically send an email to the CS mailing list to find students for research projects. Selected candidates will participate in a brief interview and will be paired with one of my PhD students. For international students, I consider only exceptional candidates with closely aligned research interests. Please contact me  <span class="text-highlight">5 months before your onsite internship</span> to allow time for paperwork and review the [J-1 student internship](https://iss.wisc.edu/j-1-student-interns/) program requirements.
+
+
+
+<p align="center">
+  <img src="{{ '/assets/logo/puma-alone.png' | relative_url }}" alt="PUMA Lab logo" style="max-width: 320px; width: 50%; height: auto;">
+</p>
