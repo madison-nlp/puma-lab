@@ -8,7 +8,7 @@ title: ""
     <div class="home-logo-wrap mb-3">
       <img class="home-logo" src="{{ site.baseurl }}/assets/logo/puma-v2.png" alt="{{ site.title }}">
     </div>
-    <p class="lead mb-3">{{ site.description }}</p>
+    <p class="lead mb-3">{{ site.description }} We are part of the <a href="https://madison-nlp.github.io/">Madison NLP group</a>.</p>
 
     <div class="card-lite">
       <h5 class="mb-2">Research themes</h5>
