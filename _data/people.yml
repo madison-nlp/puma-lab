@@ -32,19 +32,19 @@ phd_students:
 
   - name: "Ishita Kakkar"
     role: "PhD in CS, Fall 2025-"
-    interests: [ "AI Safety" ]
+    interests: [ "Self-Improving Agents" ]
     website: "https://ikakkar03.github.io/"
     photo: "assets/photos/ishita-kakkar.jpg"
 
   - name: "Xuan Ouyang"
     role: "PhD in CS, Fall 2026-"
-    interests: [ "" ]
+    interests: [  ]
     website: "https://yancyou.github.io/"
     photo: "assets/photos/xuang-ouyang.jpg"
 
   - name: "Yibo Zhong"
     role: "PhD in CS, Fall 2026-"
-    interests: [ "" ]
+    interests: [  ]
     website: ""
     photo: "assets/photos/smile.jpg"
 
