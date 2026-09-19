@@ -36,7 +36,30 @@ phd_students:
     website: "https://ikakkar03.github.io/"
     photo: "assets/photos/ishita-kakkar.jpg"
 
-masters_undergrad_students: []
+  - name: "Xuan Ouyang"
+    role: "PhD in CS, Fall 2026-"
+    interests: [ "" ]
+    website: "https://yancyou.github.io/"
+    photo: "assets/photos/xuang-ouyang.jpg"
+
+  - name: "Yibo Zhong"
+    role: "PhD in CS, Fall 2026-"
+    interests: [ "" ]
+    website: ""
+    photo: "assets/photos/smile.jpg"
+
+
+masters_undergrad_students:
+  - name: "Zucan Lyu"
+    role: "Undergraduate intern"
+    photo: "assets/photos/smile.jpg"
+    website: "https://zucanlv.github.io/"
+
+  - name: "Qinzhe Hu"
+    role: "Undergraduate intern"
+    photo: "assets/photos/qinzhe-hu.jpg"
+    website: "https://hugo0713.com/"
+
 
 alumni:
   - name: "Tim Ossowski"
